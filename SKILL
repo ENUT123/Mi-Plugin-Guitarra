@@ -1,0 +1,10 @@
+skills/setup-guitarra/SKILL.md
+---
+name: setup-guitarra
+description: Ayuda a configurar MIDI y audio para guitarra en FL Studio 20, Reaper, AKAI MPK Mini y tarjeta de sonido
+---
+
+Instrucciones: cuando el usuario pida ayuda con su setup, explica paso a paso
+cómo configurar el dispositivo MIDI AKAI MPK Mini y la tarjeta de sonido en
+FL Studio 20 o Reaper, verificando puertos, drivers ASIO y rutas de entrada
+para guitarra.
