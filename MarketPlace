@@ -1,0 +1,8 @@
+.claude-plugin/marketplace.json
+{
+  "name": "mi-marketplace-guitarra",
+  "owner": { "name": "ENUT123" },
+  "plugins": [
+    { "name": "mi-plugin-guitarra", "source": "./" }
+  ]
+}
