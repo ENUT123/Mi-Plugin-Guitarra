@@ -1,0 +1,7 @@
+.claude-plugin/plugin.json
+{
+  "name": "mi-plugin-guitarra",
+  "description": "Guía de configuración MIDI/audio para guitarra con FL Studio, Reaper, AKAI MPK Mini",
+  "version": "0.1.0",
+  "author": { "name": "ENUT123" }
+}
